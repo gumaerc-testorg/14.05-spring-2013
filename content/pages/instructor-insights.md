@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5735b51d-1d29-ff5d-c4bd-c908ee7b445b
 ---
@@ -34,28 +36,6 @@ Curriculum Information
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photograph of a classroom with multiple blackboards in the front of the room. Students sat at long tables.]({{< resource_file 82cb5a22-526c-783c-1340-4562daaf395f >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    All lectures were held in a large classroom like this one.
-    
-*   ![A photograph of a small classroom with a small chalkboard at the front of the room.]({{< resource_file c62237b8-1217-de98-8491-ffda19df768b >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitation sessions were held in smaller classrooms; about one third of the students were in each recitation section.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
