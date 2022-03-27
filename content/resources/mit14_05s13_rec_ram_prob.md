@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 3cc67b1a-89c7-1bfe-b3aa-39217be60186
 resourcetype: Document
 title: Ramsey problem notes
 uid: 83bd6c23-5c99-d836-f3aa-c13e82992ab1

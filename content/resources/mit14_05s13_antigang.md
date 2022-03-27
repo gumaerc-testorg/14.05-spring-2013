@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3aa5cc44-d149-b022-290f-0f4e54db4da4
 resourcetype: Document
 title: The Effect of Anti-Gang Measures on Wealth in Central American Countries
 uid: 403ad565-95f2-0cc8-7735-82ae942e0ee1

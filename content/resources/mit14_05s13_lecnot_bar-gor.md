@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d2650cf-238f-5f7b-c582-7267bbe526ac
 resourcetype: Document
 title: Introduction and the Solow Model
 uid: c3c20096-4d41-a679-272f-9e27e9332246

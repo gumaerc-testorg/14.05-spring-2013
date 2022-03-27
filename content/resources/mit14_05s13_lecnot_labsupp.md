@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d2650cf-238f-5f7b-c582-7267bbe526ac
 resourcetype: Document
 title: Labor Supply
 uid: d7fdbbe5-0a4a-f56a-87e2-a54bb6219991

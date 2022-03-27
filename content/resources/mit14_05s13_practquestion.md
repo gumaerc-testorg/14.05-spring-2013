@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 3cc67b1a-89c7-1bfe-b3aa-39217be60186
 resourcetype: Document
 title: Midterm practice questions
 uid: 2f3d2a1f-7ea5-77e9-94d0-3b089e8440b8
