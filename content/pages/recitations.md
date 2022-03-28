@@ -3,16 +3,17 @@ content_type: page
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
+parent_uid: null
 title: Recitations
 uid: 3cc67b1a-89c7-1bfe-b3aa-39217be60186
 ---
 
 Review notes courtesy of Sebastian Di Tella. Used with permission.
 
-[Ramsey problem (PDF)]({{< baseurl >}}/resources/mit14_05s13_rec_ram_prob)
+{{< resource_link 83bd6c23-5c99-d836-f3aa-c13e82992ab1 "Ramsey problem (PDF)" >}}
 
-[Midterm review (PDF)]({{< baseurl >}}/resources/mit14_05s13_midterm_revi)
+{{< resource_link 347e3a65-d7e9-3b53-4d4a-8c27021b9bc4 "Midterm review (PDF)" >}}
 
-[Midterm practice questions (PDF)]({{< baseurl >}}/resources/mit14_05s13_practquestion)
+{{< resource_link 2f3d2a1f-7ea5-77e9-94d0-3b089e8440b8 "Midterm practice questions (PDF)" >}}
 
-[Final review (PDF)]({{< baseurl >}}/resources/mit14_05s13_revi_for_final)
+{{< resource_link 51124680-aac6-46b2-7e6a-3d57c6044ea9 "Final review (PDF)" >}}

@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: 5735b51d-1d29-ff5d-c4bd-c908ee7b445b
 ---
@@ -24,8 +25,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011/)
-*   [_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014/)
+*   [_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011)
+*   [_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014)
 
 ### Requirements Satisfied
 
@@ -66,7 +67,7 @@ Lecture
 Recitation
 ----------
 
-Students met in a group with one of the three Teaching Assistants, Marco Di Maggio, Sebastian Di Tella, or Juan Pablo Xandri. [Recitation sessions]({{< baseurl >}}/pages/recitations) were scheduled, in addition to regular class time, to allow students the opportunity to review the material taught during lecture in-depth and ask questions in a small group setting.
+Students met in a group with one of the three Teaching Assistants, Marco Di Maggio, Sebastian Di Tella, or Juan Pablo Xandri. {{< resource_link 3cc67b1a-89c7-1bfe-b3aa-39217be60186 "Recitation sessions" >}} were scheduled, in addition to regular class time, to allow students the opportunity to review the material taught during lecture in-depth and ask questions in a small group setting.
 
 Out of Class
 ------------

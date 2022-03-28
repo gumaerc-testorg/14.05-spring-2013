@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 6f762428-8f4d-269e-ec2c-18f231e78e65
 ---
@@ -16,9 +17,9 @@ Recitations: 1 session / week
 Prerequisites
 -------------
 
-[_14.01SC Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011/)
+[_14.01SC Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011)
 
-[_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014/)
+[_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014)
 
 {{< anchor "objective" >}}{{< /anchor >}}
 
