@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-05-intermediate-macroeconomics-spring-2013/d5e9a9497a10b5ec81e2a3e20f65d0c0_14-05_classroom-2.jpg
+file: /courses/14-05-intermediate-macroeconomics-spring-2013/d5e9a9497a10b5ec81e2a3e20f65d0c0_14-05_classroom-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes for selected sessions of the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 5d2650cf-238f-5f7b-c582-7267bbe526ac
 ---
@@ -40,7 +41,7 @@ The Solow Model
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link c132cddf-2e9d-05c5-d42d-fadece492d72 "Introduction and the Solow Model (PDF)" >}}
+{{% resource_link c132cddf-2e9d-05c5-d42d-fadece492d72 "Introduction and the Solow Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ The Solow Model
 Consumption and Saving
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8944c5b2-7061-9b2c-45e8-e9f79dbbbcef "Consumption and Saving (PDF)" >}}
+{{% resource_link 8944c5b2-7061-9b2c-45e8-e9f79dbbbcef "Consumption and Saving (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +65,7 @@ Consumption and Saving
 Labor Supply
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d7fdbbe5-0a4a-f56a-87e2-a54bb6219991 "Labor Supply (PDF)" >}}
+{{% resource_link d7fdbbe5-0a4a-f56a-87e2-a54bb6219991 "Labor Supply (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Labor Supply
 The Neoclassical Growth Model (aka Ramsey Model)
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 149acffe-fd21-89ba-5f55-dc59e955d244 "The Neoclassical Growth Model (PDF)" >}}
+{{% resource_link 149acffe-fd21-89ba-5f55-dc59e955d244 "The Neoclassical Growth Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ The Neoclassical Growth Model (aka Ramsey Model)
 Endogenous Growth
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5f9526f2-5263-759f-0679-8a49f1db2cb2 "Endogenous Growth (PDF)" >}}
+{{% resource_link 5f9526f2-5263-759f-0679-8a49f1db2cb2 "Endogenous Growth (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,11 +103,11 @@ Fiscal Policy: Taxation, Public Debt, and Redistribution
 {{< tdopen >}}
 
 
-{{< resource_link 1032b81c-f825-79d7-66b2-b39971a7a0d8 "Ricardian Equivalence (PDF)" >}}
+{{% resource_link 1032b81c-f825-79d7-66b2-b39971a7a0d8 "Ricardian Equivalence (PDF)" %}}
 
-{{< resource_link 5f5665ee-6bb4-da10-d1f1-ed5d66b1119d "Redistribution As Optimal Social Insurance (PDF)" >}}
+{{% resource_link 5f5665ee-6bb4-da10-d1f1-ed5d66b1119d "Redistribution As Optimal Social Insurance (PDF)" %}}
 
-{{< resource_link 28ece2e8-65a1-9af5-128e-946d4ab2c081 "Fairness and Redistribution (PDF)" >}}
+{{% resource_link 28ece2e8-65a1-9af5-128e-946d4ab2c081 "Fairness and Redistribution (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -120,7 +121,7 @@ Fiscal Policy: Taxation, Public Debt, and Redistribution
 Monetary Policy: Stabilization Policies and Rules vs. Discretion
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link c3c20096-4d41-a679-272f-9e27e9332246 "Inflation Traps, and Rules vs. Discretion (PDF)" >}}
+{{% resource_link c3c20096-4d41-a679-272f-9e27e9332246 "Inflation Traps, and Rules vs. Discretion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Monetary Policy: Stabilization Policies and Rules vs. Discretion
 Financial Crises and Coordination Failures
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5bd3ce6b-dbcb-ac82-738b-1ecbc09374b5 "Crises and Multiple Equilibria (PDF)" >}}
+{{% resource_link 5bd3ce6b-dbcb-ac82-738b-1ecbc09374b5 "Crises and Multiple Equilibria (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
