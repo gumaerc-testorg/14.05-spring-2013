@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/6d4f392e3a6ab0bca21
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Paper guidelines
 uid: 6d4f392e-3a6a-b0bc-a21c-c1cd6fbb3ef5
 ---
 This file contains information regarding paper guidelines.
-

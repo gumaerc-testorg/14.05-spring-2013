@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/72d8eb460821eae836c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 4
 uid: 72d8eb46-0821-eae8-36c0-af39a9dfb65a
 ---
 This file contains information regarding problem set 4.
-

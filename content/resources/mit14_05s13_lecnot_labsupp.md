@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/d7fdbbe50a4af56a87e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Labor Supply
 uid: d7fdbbe5-0a4a-f56a-87e2-a54bb6219991
 ---
 This file contains information regarding labor supply.  
-

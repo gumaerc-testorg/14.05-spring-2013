@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/5bd3ce6bdbcbac82738
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Crises and Multiple Equilibria
 uid: 5bd3ce6b-dbcb-ac82-738b-1ecbc09374b5
 ---
 This file contains information regarding crises and multiple equilibria.
-

@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/149acffefd2189ba5f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Neoclassical Growth Model
 uid: 149acffe-fd21-89ba-5f55-dc59e955d244
 ---
 This file contains information regarding the neoclassical growth model.
-

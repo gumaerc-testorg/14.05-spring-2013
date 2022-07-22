@@ -6,6 +6,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/5f5665ee6bb4da10d1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Redistribution As Optimal Social Insurance
 uid: 5f5665ee-6bb4-da10-d1f1-ed5d66b1119d
 ---
 This file contains information regarding redistribution as optimal social insurance.
-

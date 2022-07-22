@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/c132cddf2e9d05c5d42
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction and the Solow Model
 uid: c132cddf-2e9d-05c5-d42d-fadece492d72
 ---
 This file contains information regarding introduction and the solow model.
-

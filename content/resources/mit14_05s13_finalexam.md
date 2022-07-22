@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/bbf02cea1029b14a8bb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.05 Final Exam
 uid: bbf02cea-1029-b14a-8bb7-44a116e300cf
 ---
 This file contains information regarding final exam.
-

@@ -6,6 +6,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/273fad382476431fd0d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Schooling Levels and the Growth of the Four Asian Tigers
 uid: 273fad38-2476-431f-d0db-4d43c2e7f6e6
 ---
 This file contains information regarding schooling levels and the growth of the four asian tigers.
-

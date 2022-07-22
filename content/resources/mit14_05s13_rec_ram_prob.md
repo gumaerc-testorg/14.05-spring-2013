@@ -5,6 +5,7 @@ file: /courses/14-05-intermediate-macroeconomics-spring-2013/83bd6c235c99d836f3a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Ramsey problem notes
 uid: 83bd6c23-5c99-d836-f3aa-c13e82992ab1
 ---
 This file contains information regarding ramsey problem.
-
