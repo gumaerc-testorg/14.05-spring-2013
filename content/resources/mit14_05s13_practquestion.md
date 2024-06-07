@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding midterm practice questions.
 file: /courses/14-05-intermediate-macroeconomics-spring-2013/2f3d2a1f7ea577e994d03b089e8440b8_MIT14_05S13_practquestion.pdf
+file_size: 72447
 file_type: application/pdf
 learning_resource_types:
 - Recitations

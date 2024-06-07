@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding introduction and the solow model.
 file: /courses/14-05-intermediate-macroeconomics-spring-2013/c132cddf2e9d05c5d42dfadece492d72_MIT14_05S13_LecNot_Int_Sol.pdf
+file_size: 569577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
