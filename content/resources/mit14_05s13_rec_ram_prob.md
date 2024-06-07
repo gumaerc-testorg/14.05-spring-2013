@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding ramsey problem.
 file: /courses/14-05-intermediate-macroeconomics-spring-2013/83bd6c235c99d836f3aac13e82992ab1_MIT14_05S13_rec_ram_prob.pdf
+file_size: 197433
 file_type: application/pdf
 learning_resource_types:
 - Recitations

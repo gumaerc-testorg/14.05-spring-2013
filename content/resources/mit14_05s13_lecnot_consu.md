@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding consumption and saving.
 file: /courses/14-05-intermediate-macroeconomics-spring-2013/8944c5b270619b2c45e8e9f79dbbbcef_MIT14_05S13_LecNot_consu.pdf
+file_size: 226872
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
