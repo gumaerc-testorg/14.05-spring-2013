@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding the effect of healthcare
   regulation on national output: evidence using a cross-country growth analysis.'
 file: /courses/14-05-intermediate-macroeconomics-spring-2013/0d16a9123eaface02e9369ce618ca7ff_MIT14_05S13_healthcare.pdf
+file_size: 343986
 file_type: application/pdf
 learning_resource_types:
 - Assignments
