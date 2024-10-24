@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 2 data.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/c725f336581c857c1c8b71c83417cf26_MIT14_05S13_pset2_data.xlsx
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/c725f336581c857c1c8b71c83417cf26_MIT14_05S13_pset2_data.xlsx
 file_size: 13109
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
