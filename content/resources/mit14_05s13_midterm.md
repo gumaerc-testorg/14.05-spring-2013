@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding midterm.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/ffb0fd93590b4415e65103abb9274ee3_MIT14_05S13_midterm.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/ffb0fd93590b4415e65103abb9274ee3_MIT14_05S13_midterm.pdf
 file_size: 141353
 file_type: application/pdf
 learning_resource_types:
