@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/c62237b81217de988491ffda19df768b_14-05_classroom-3.jpg
+file: /courses/14-05-intermediate-macroeconomics-spring-2013/c62237b81217de988491ffda19df768b_14-05_classroom-3.jpg
 file_size: 51339
 file_type: image/jpeg
 image_metadata:
