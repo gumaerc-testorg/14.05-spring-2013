@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final review.
-file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/51124680aac646b27e6a3d57c6044ea9_MIT14_05S13_revi_for_final.pdf
+file: /courses/14-05-intermediate-macroeconomics-spring-2013/51124680aac646b27e6a3d57c6044ea9_MIT14_05S13_revi_for_final.pdf
 file_size: 315775
 file_type: application/pdf
 learning_resource_types:

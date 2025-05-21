@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding crises and multiple equilibria.
-file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/5bd3ce6bdbcbac82738b1ecbc09374b5_MIT14_05S13_LecNot_crises.pdf
+file: /courses/14-05-intermediate-macroeconomics-spring-2013/5bd3ce6bdbcbac82738b1ecbc09374b5_MIT14_05S13_LecNot_crises.pdf
 file_size: 304368
 file_type: application/pdf
 learning_resource_types:
