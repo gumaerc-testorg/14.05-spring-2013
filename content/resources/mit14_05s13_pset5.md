@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 5.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/a67ef6e25365592969ccd65c38dbd508_MIT14_05S13_pset5.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/a67ef6e25365592969ccd65c38dbd508_MIT14_05S13_pset5.pdf
 file_size: 146560
 file_type: application/pdf
 learning_resource_types:

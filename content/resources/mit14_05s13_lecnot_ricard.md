@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding ricardian equivalence.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/1032b81cf82579d766b2b39971a7a0d8_MIT14_05S13_LecNot_ricard.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/1032b81cf82579d766b2b39971a7a0d8_MIT14_05S13_LecNot_ricard.pdf
 file_size: 187149
 file_type: application/pdf
 learning_resource_types:
