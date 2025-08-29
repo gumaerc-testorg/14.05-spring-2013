@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding schooling levels and the growth
   of the four asian tigers.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/273fad382476431fd0db4d43c2e7f6e6_MIT14_05S13_tigers.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/273fad382476431fd0db4d43c2e7f6e6_MIT14_05S13_tigers.pdf
 file_size: 372006
 file_type: application/pdf
 learning_resource_types:

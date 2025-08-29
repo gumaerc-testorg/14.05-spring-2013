@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding fairness and redistribution.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/28ece2e865a19af5128e946d4ab2c081_MIT14_05S13_LecNot_fairnes.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/28ece2e865a19af5128e946d4ab2c081_MIT14_05S13_LecNot_fairnes.pdf
 file_size: 306393
 file_type: application/pdf
 learning_resource_types:
