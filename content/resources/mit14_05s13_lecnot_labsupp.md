@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding labor supply.  '
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/d7fdbbe50a4af56a87e2a54bb6219991_MIT14_05S13_LecNot_labsupp.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/d7fdbbe50a4af56a87e2a54bb6219991_MIT14_05S13_LecNot_labsupp.pdf
 file_size: 176645
 file_type: application/pdf
 learning_resource_types:

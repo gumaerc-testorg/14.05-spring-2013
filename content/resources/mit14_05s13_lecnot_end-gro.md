@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding endogenous growth.
-file: /courses/14-05-intermediate-macroeconomics-spring-2013/5f9526f25263759f06798a49f1db2cb2_MIT14_05S13_LecNot_end-gro.pdf
+file: /ol-ocw-studio-app/courses/14-05-intermediate-macroeconomics-spring-2013/5f9526f25263759f06798a49f1db2cb2_MIT14_05S13_LecNot_end-gro.pdf
 file_size: 207635
 file_type: application/pdf
 learning_resource_types:
