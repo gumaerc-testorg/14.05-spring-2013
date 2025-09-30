@@ -30,7 +30,7 @@ The primary goal of this course is to help students develop a consistent way of 
 
 - CI-M ![](/images/educator/icon-question-cim.png)
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
-- [Economics bachelor's degree requirement](http://economics.mit.edu/under/majors)
+- {{% resource_link "69576ed1-337f-470b-bf4d-9c19c72d77b7" "Economics bachelor's degree requirement" %}}
 
 ### Offered
 
